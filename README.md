@@ -1,1 +1,2 @@
-# install_Web.sh2
+apt-get update -y && apt-get upgrade -y
+apt-get install -y nginx
